@@ -1,0 +1,10 @@
+.contactListBtn{
+    height: 18px;
+    width: 60px;
+    font-size: 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+    background-color: rgb(170, 7, 113);
+    border: 1px solid rgb(137, 116, 116);
+    color: rgb(0, 0, 0);
+    }
